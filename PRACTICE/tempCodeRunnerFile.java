@@ -1,0 +1,1 @@
+r.rev(words[i]);
